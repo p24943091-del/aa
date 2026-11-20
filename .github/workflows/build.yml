@@ -1,4 +1,4 @@
-name: .github/workflows/build Mod
+name: build Mod
 
 on:
   workflow_dispatch:
