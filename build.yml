@@ -1,4 +1,4 @@
-name: jhBuild Mod
+name: .github/workflows/build Mod
 
 on:
   workflow_dispatch:
